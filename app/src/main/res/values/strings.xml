@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="ini_move_activity">Ini Move Activity</string>
+    <string name="data_recieved">Data Recieved</string>
+    <string name="_150">150</string>
+    <string name="_200">200</string>
+</resources>
